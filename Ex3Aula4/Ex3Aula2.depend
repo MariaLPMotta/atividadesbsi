@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1681389875 source:c:\users\aluno\desktop\mlpm\ex3aula2\main.cpp
+	<iostream>
+	<cctype>
+
